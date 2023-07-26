@@ -1,0 +1,9 @@
+
+E
+java:S3740	"/Provide the parametrized type for this generic.(‰•ÔÙ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(é—Çıÿÿÿÿ
+_
+java:S1858"D"answeredBy" returns a string, there's no need to call "toString()".(é—Çıÿÿÿÿ
+f
+java:S1858"K"validtex" is already a string, there's no need to call "toString()" on it.(é—Çıÿÿÿÿ

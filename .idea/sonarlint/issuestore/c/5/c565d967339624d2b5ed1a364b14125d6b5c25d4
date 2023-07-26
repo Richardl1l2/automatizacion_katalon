@@ -1,0 +1,32 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+3
+java:S2119-"Save and re-use this "Random".(¼İÅf
+t
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142<"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142D"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Q	java:S125j"<This block of commented-out lines of code should be removed.(©ù÷·
+a
+java:S1128"FRemove this unused import 'net.serenitybdd.screenplay.actions.Scroll'.(ÆğŒÄşÿÿÿÿ
+c
+java:S1128"HRemove this unused import 'net.serenitybdd.screenplay.conditions.Check'.(§ÄÕŒøÿÿÿÿ
+a
+java:S1128	"FRemove this unused import 'net.serenitybdd.screenplay.questions.Text'.(ùŠ¨ÿÿÿÿÿ
+]
+java:S1128
+"GRemove this unused import 'net.serenitybdd.screenplay.waits.WaitUntil'.(˜• Ü
+x
+java:S1128"bRemove this unused import 'net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isVisible'.(‡ª
+O
+java:S1128"4Remove this unused import 'ui.PaginaPrincipal.MENU'.(Ğáº¾ûÿÿÿÿ

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runner.LoginRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-26T02:43:00" hostname="DESKTOP-FNDS34O" time="65.457">
+  <properties/>
+  <testcase name="Iniciar sesion y realizar ingreso de datos" classname="runner.LoginRunner" time="65.457"/>
+  <system-out><![CDATA[21:43:00.084 [Test worker] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///C:/Users/Richard/Desktop/Tester/prueba%20smart/automatizacion_katalon/src/test/resources/features/RegistoProductos.feature
+21:43:00.484 [Test worker] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+21:43:00.552 [Test worker] INFO   - Test Suite Started: Ingresar en la pagina  katalon-demo-cura.herokuapp.com y realizar registro de datos medicos
+21:43:00.607 [Test worker] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///C:/Users/Richard/Desktop/Tester/prueba%20smart/automatizacion_katalon/src/test/resources/features/RegistoProductos.feature
+21:43:00.631 [Test worker] INFO   - Test Suite Started: Ingresar en la pagina  katalon-demo-cura.herokuapp.com y realizar registro de datos medicos
+21:43:00.798 [Test worker] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///C:/Users/Richard/Desktop/Tester/prueba%20smart/automatizacion_katalon/src/test/resources/features/RegistoProductos.feature
+21:43:00.841 [Test worker] INFO   - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Iniciar sesion y realizar ingreso de datos(ingresar-en-la-pagina--katalon-demo-cura.herokuapp.com-y-realizar-registro-de-datos-medicos;iniciar-sesion-y-realizar-ingreso-de-datos)
+--------------------------------------------------------------------------------
+21:43:01.938 [Test worker] INFO  n.s.c.w.d.DriverProvider - Using automatically driver download
+21:43:02.826 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+21:43:02.860 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Richard\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+21:43:03.022 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider - Starting Chrome driver instance with capabilities:
+21:43:03.027 [Test worker] INFO  n.s.c.w.d.ChromeDriverProvider - Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized, test-type, no-sandbox, lang=es, disable-popup-blocking, disable-download-notification, ignore-certificate-errors, allow-running-insecure-content, disable-translate, always-authorize-plugins, disable-extensions, remote-allow-origins=*], extensions: []}}
+21:44:05.263 [Test worker] INFO   - 
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+Iniciar sesion y realizar ingreso de datos
+----------------------------------------------------------------------
+]]></system-out>
+  <system-err><![CDATA[?[32m?[1m??????????????????????????????????????????????????????????????????????????????????????[0m
+?[32m?[1m??[0m Share your Cucumber Report with your team at ?[36m?[1m?[4mhttps://reports.cucumber.io?[0m          ?[32m?[1m??[0m
+?[32m?[1m??[0m Activate publishing with one of the following:                                    ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m Environment variable:                            ?[36mCUCUMBER_PUBLISH_ENABLED?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m JUnit:                                           ?[36m@CucumberOptions?[0m(publish = ?[36mtrue?[0m) ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m More information at ?[36mhttps://cucumber.io/docs/cucumber/environment-variables/?[0m      ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m Disable this message with one of the following:                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m??[0m
+?[32m?[1m??????????????????????????????????????????????????????????????????????????????????????[0m
+]]></system-err>
+</testsuite>
